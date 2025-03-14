@@ -34,7 +34,7 @@
 
 
 ## 🏆 Why This Will Change Everything
-If executed right, **Ultra_Fast_Cloud_Based_IDE** will become the **fastest, smartest, and most scalable cloud-based development platform ever created on the planet**. It will surpass Replit, GitHub Codespaces, and all existing online IDEs. 🚀
+If executed right, **Ultra Fast Cloud Based IDE** will become the **fastest, smartest, and most scalable cloud-based development platform ever created on the planet**. It will surpass Replit, GitHub Codespaces, and all existing online IDEs. 🚀
 
 ## 📬 Get Involved
 🔥 Want to be part of the future of cloud development? Join the movement!
