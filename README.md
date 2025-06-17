@@ -1,7 +1,7 @@
 # Ultra Fast Cloud Based IDE
 
 ## 🚀 Overview
-**Ultra Fast Cloud Based IDE** is the next evolution in cloud-based development environments, designed to be **100x faster than Replit** with extreme performance, scalability, and real-time collaboration. Built using **Rust, Go, Elixir, and Python for AI/ML**, this IDE will redefine how developers write, test, and deploy code in the cloud.
+**Ultra Fast Cloud Based IDE** is the next evolution in cloud-based development environments, designed to be **100x faster than Replit** with extreme performance, scalability, and real-time collaboration. Built using **Rust, Go, and Python for AI/ML**, this IDE will redefine how developers write, test, and deploy code in the cloud.
 
 ## 🌟 Key Features
 - **⚡ Unmatched Performance**: Leverages WebAssembly (WASM), WebGL and CRDTs for **ultra-low latency** coding.
