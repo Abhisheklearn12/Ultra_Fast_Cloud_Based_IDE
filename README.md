@@ -16,13 +16,12 @@
 ### **Backend:**
 - **Rust** (Core runtime & WASM execution)
 - **Go** (High-performance execution & microservices)
-- **Elixir** (Real-time communication & fault-tolerant systems)
 - **Python** (AI-powered coding assistance & ML integrations)
 - **Firecracker VMs** (Lightning-fast containerized execution)
 - **Cloudflare Workers + Fly.io** (Ultra-low latency execution)
 
 ### **Frontend:**
-- **Svelte** (Super sleek UI with **insanely fast reactivity**)
+- **Reactjs** (Super sleek UI) 
 - **Tailwind CSS** (Minimal yet powerful UI styling)
 - **WebGL/WebAssembly** (Near-native execution speeds)
 - **CRDT-based editor** (for real-time multi-user collaboration)
